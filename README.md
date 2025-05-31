@@ -4,14 +4,15 @@
 Zealous IT student specializing in Artificial Intelligence and Machine Learning Techniques at SSN College of Engineering, Chennai. Proficient in Python, SQL, OOP, Design Patterns, Data Structures, Artificial Intelligence, Data Analytics, and Computer Networks. Actively involved in projects to expand skills and expertise. Passionate about integrating healthcare and technology to address real-world challenges and foster innovation.  
 
 ## 🔖 Positions:
-- **Secretary, Documentation Team at Sportium**  
+- **Research Intern - National Institute of Technology, Tiruchirappalli (NIT - Trichy)**
+- **Advisor to the Secretary, Documentation Team at Sportium**  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashuwin_elegant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashuwin-p-4952a4271)  
 
 ## 📬 Contact Me:
 - Email: [ashuwin2210335@ssn.edu.in](mailto:ashuwin2210335@ssn.edu.in)
-- LinkedIn: [Ashuwin P](https://linkedin.com/in/ashuwin-p-4952a4271)
+- LinkedIn: [Ashuwin P](https://linkedin.com/in/ashuwin-p)
 
 
 
